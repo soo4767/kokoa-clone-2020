@@ -1,0 +1,20 @@
+.phone-number__noti{
+    color: tomato;
+}
+
+.more-screen .icon-row{
+    margin-bottom: 50px;
+}
+
+.more-suggestions{
+    border-top: var(--main-border);
+    padding: 25px 0;
+}
+.more-suggestions .icon-row{
+    margin-top: 25px;
+}
+
+.more-suggestions i{
+    color: var(--yellow);
+    font-size: 50px;
+}
